@@ -1,0 +1,14 @@
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.AssemblyInfoInputs.cache
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.AssemblyInfo.cs
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.csproj.CoreCompileInputs.cache
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\bin\Debug\net8.0\CSharpHomework.exe
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\bin\Debug\net8.0\CSharpHomework.deps.json
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\bin\Debug\net8.0\CSharpHomework.runtimeconfig.json
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\bin\Debug\net8.0\CSharpHomework.dll
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\bin\Debug\net8.0\CSharpHomework.pdb
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.dll
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\refint\CSharpHomework.dll
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.pdb
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\CSharpHomework.genruntimeconfig.cache
+C:\Documents\A Mio\1 ITM\Taller 03 – Repaso de Lógica de Programación\Taller03-Logica\CSharpHomework\obj\Debug\net8.0\ref\CSharpHomework.dll
