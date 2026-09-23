@@ -274,4 +274,5 @@ namespace CSharpHomework
                 Console.WriteLine("Fuera del rango.");
         }
     }
+// Ejercicios completados
 }
